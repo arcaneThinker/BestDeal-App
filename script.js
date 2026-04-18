@@ -1,20 +1,10 @@
 // Your product database now points to your local images folder
 const products = [
     {
-        title: "Men's Teen Faux Leather Zip Up Bomber Jacket 90S Vintage Biker Racing Moto Jackets Streetwear Coats",
-        url: "https://amzn.to/4ccKon8",
+        title: "Jellycat Vivacious Vegetable Aubergine - Eggplant Plush Stuffed Toy",
+        url: "https://amzn.to/4sJ3RSr",
         imagePath: "./images/img1.jpg" 
     },
-    {
-        title: "QJQ Men's Graphic Vintage Tees Short Sleeve Crewneck Oversized T Shirts Streetwear Summer Casual Tops",
-        url: "https://amzn.to/4cncE7w",
-        imagePath: "/images/img2.jpg"
-    },
-    {
-        title: "Men's Teen Faux Leather Zip Up Bomber Jacket 90S Vintage Biker Racing Moto Jackets Streetwear Coats(Brown)",
-        url: "https://amzn.to/3POkAGj",
-        imagePath: "/images/img3.jpg"
-    }
 ];
 
 const gridContainer = document.getElementById('gridContainer');
