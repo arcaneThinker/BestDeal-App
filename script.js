@@ -3,7 +3,7 @@ const products = [
     {
         title: "Jellycat Vivacious Vegetable Aubergine - Eggplant Plush Stuffed Toy",
         url: "https://amzn.to/4sJ3RSr",
-        imagePath: "./images/img1.jpg" 
+        imagePath: "./images/img1.webp" 
     },
 ];
 
