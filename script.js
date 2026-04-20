@@ -8,7 +8,7 @@ const products = [
     {
         title: "Lifting Hooks for Weight Lifting, 1 Pair 330 LB Weight Lifting Wrist Wraps Heavy Duty Gym Lifting Straps Hook for Barbell, Deadlifts, Pull-Ups, Strength Training, Wrist Protection, for Men & Women",
         url: "https://amzn.to/4eyvg67",
-        imagePath: "./images/img2.jgep" 
+        imagePath: "./images/img2.jpeg" 
     },
 ];
 
