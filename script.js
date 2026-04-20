@@ -5,6 +5,11 @@ const products = [
         url: "https://amzn.to/4sJ3RSr",
         imagePath: "./images/img1.webp" 
     },
+    {
+        title: "Lifting Hooks for Weight Lifting, 1 Pair 330 LB Weight Lifting Wrist Wraps Heavy Duty Gym Lifting Straps Hook for Barbell, Deadlifts, Pull-Ups, Strength Training, Wrist Protection, for Men & Women",
+        url: "https://amzn.to/4eyvg67",
+        imagePath: "./images/img2.jgep" 
+    },
 ];
 
 const gridContainer = document.getElementById('gridContainer');
