@@ -7,6 +7,11 @@ const products = [
     },
     {
         title: "Lifting Hooks for Weight Lifting, 1 Pair 330 LB Weight Lifting Wrist Wraps Heavy Duty Gym Lifting Straps Hook for Barbell, Deadlifts, Pull-Ups, Strength Training, Wrist Protection, for Men & Women",
+        url: "https://amzn.to/4eAom04",
+        imagePath: "./images/img3.jpg" 
+    },
+    {
+        title: "Kobataro Rat Headband Costume Spoon Hair Clip Set Shoulder Plush Toy Costume Accessories Stuffed Animal Gifts for Kids Adults",
         url: "https://amzn.to/4eyvg67",
         imagePath: "./images/img2.jpeg" 
     },
