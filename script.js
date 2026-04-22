@@ -15,6 +15,11 @@ const products = [
         url: "https://amzn.to/4eyvg67",
         imagePath: "./images/img3.jpg" 
     },
+    {
+        title: "SNACTIV LITE Finger Chopsticks for Gamers 4PC NEON Bundle - As Seen on Shark Tank! The Official Snacking Tool of the Future",
+        url: "https://amzn.to/4coECQx",
+        imagePath: "./images/img4.jpeg" 
+    }
 ];
 
 const gridContainer = document.getElementById('gridContainer');
