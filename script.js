@@ -1,5 +1,10 @@
 // Your product database now points to your local images folder
 const products = [
+     {
+        title: "SA106 Mirror Lens Monolens Cyclops Robotic Futuristic Sunglasses",
+        url: "https://amzn.to/48QNNXF",
+        imagePath: "./images/img5.png" 
+    },
     {
         title: "Jellycat Vivacious Vegetable Aubergine - Eggplant Plush Stuffed Toy",
         url: "https://amzn.to/4sJ3RSr",
@@ -19,7 +24,7 @@ const products = [
         title: "SNACTIV LITE Finger Chopsticks for Gamers 4PC NEON Bundle - As Seen on Shark Tank! The Official Snacking Tool of the Future",
         url: "https://amzn.to/4coECQx",
         imagePath: "./images/img4.jpeg" 
-    }
+    },
 ];
 
 const gridContainer = document.getElementById('gridContainer');
