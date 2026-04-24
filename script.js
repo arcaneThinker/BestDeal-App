@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Bubble Stress Relief Toy Mini Bubble Blower Bubble Sticks Relaxation Birthday Christmas Party Gift for Men Women (Bubble Water with Empty Bottle)",
+        url: "https://amzn.to/4cKdfiG",
+        imagePath: "./images/img6.jpeg" 
+    },
+     {
         title: "SA106 Mirror Lens Monolens Cyclops Robotic Futuristic Sunglasses",
         url: "https://amzn.to/48QNNXF",
         imagePath: "./images/img5.png" 
