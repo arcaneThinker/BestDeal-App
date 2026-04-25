@@ -6,6 +6,11 @@ const products = [
         imagePath: "./images/img6.jpeg" 
     },
      {
+        title: "3D Printed Keyboard Joystick Keycap Mechanical Arcade Stick Adapter for WASD Retro Gaming Accessory Custom 4-Key Linkage Mod Mini Fighting Controller DIY Novelty Analog Button Attachment Set 5(Yellow)",
+        url: "https://amzn.to/4sZEDzb",
+        imagePath: "./images/img7.jpeg" 
+    },
+     {
         title: "SA106 Mirror Lens Monolens Cyclops Robotic Futuristic Sunglasses",
         url: "https://amzn.to/48QNNXF",
         imagePath: "./images/img5.png" 
