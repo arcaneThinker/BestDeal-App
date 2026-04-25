@@ -1,6 +1,16 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Light Up Bath Toys, 6 Pack | Water-Activated Light Up Toys Flash & Change Color | Easy-Grip Baby & Toddler Bath Toys | Sensory Bathtub Toys with Bath Lights for Kids Bath",
+        url: "https://amzn.to/3OqCBu5",
+        imagePath: "./images/img9.jpeg" 
+    },
+     {
+        title: "Rainbow Bath Bombs for Kids, 4 XL Kid Bath Bombs with Surprise Colors Inside, Organic Bathbombs for Women, Stocking Stuffers for Kids Christmas Gifts for Girls Boys",
+        url: "https://amzn.to/4cKjTW3",
+        imagePath: "./images/img8.jpeg" 
+    },
+     {
         title: "Bubble Stress Relief Toy Mini Bubble Blower Bubble Sticks Relaxation Birthday Christmas Party Gift for Men Women (Bubble Water with Empty Bottle)",
         url: "https://amzn.to/4cKdfiG",
         imagePath: "./images/img6.jpeg" 
