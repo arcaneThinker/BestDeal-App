@@ -1,6 +1,16 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Tens Black Unit with 2 Pads,EMS Microcurrent Mini Massager Machine,Low Frequency Multi Function Physiotherapy Instrument Muscle Stimulator,Full Body Pain Relief Therapy Device",
+        url: "https://amzn.to/4czQQpu",
+        imagePath: "./images/img10.jpeg" 
+    },
+     {
+        title: "GROWNSY Baby Bath Stand for Babies 6 Months & Up, Foldable Baby Shower Stand for Infants and Toddlers, Adjustable Baby Shower Standing Support With Shower Holder",
+        url: "https://amzn.to/49c5MrE",
+        imagePath: "./images/img11.jpg" 
+    },
+     {
         title: "Light Up Bath Toys, 6 Pack | Water-Activated Light Up Toys Flash & Change Color | Easy-Grip Baby & Toddler Bath Toys | Sensory Bathtub Toys with Bath Lights for Kids Bath",
         url: "https://amzn.to/3OqCBu5",
         imagePath: "./images/img9.jpeg" 
