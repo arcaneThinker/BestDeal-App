@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "YZXODN 3 PCS Side Mirror Squeegee,Car Mirror Squeegee,Retractable Car Rearview Mirror Wiper,Portable Car Cleaning Tool for Rainy Foggy Weather,Universal Car Accessories(Black/Pink/Green)",
+        url: "https://amzn.to/4cIivDr",
+        imagePath: "./images/img12.jpeg" 
+    },
+     {
         title: "Tens Black Unit with 2 Pads,EMS Microcurrent Mini Massager Machine,Low Frequency Multi Function Physiotherapy Instrument Muscle Stimulator,Full Body Pain Relief Therapy Device",
         url: "https://amzn.to/4czQQpu",
         imagePath: "./images/img10.jpeg" 
