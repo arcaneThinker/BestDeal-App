@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Sports Fashion Running Shoes, Mesh Athletic Sneakers with Gradient Design, Black White Blue Colors, BlackColors，Breathable Comfort",
+        url: "https://amzn.to/4vThotx",
+        imagePath: "./images/img13.jpeg" 
+    },
+     {
         title: "YZXODN 3 PCS Side Mirror Squeegee,Car Mirror Squeegee,Retractable Car Rearview Mirror Wiper,Portable Car Cleaning Tool for Rainy Foggy Weather,Universal Car Accessories(Black/Pink/Green)",
         url: "https://amzn.to/4cIivDr",
         imagePath: "./images/img12.jpeg" 
