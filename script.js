@@ -3,7 +3,7 @@ const products = [
      {
         title: "DR. WELL 2026 New, Full Body Stretching Massage Mat 3D Lumbar - Neck, Back, Waist, Hip Relaxation. 26 Powerful Air Cells, 7 Massage Modes & 5 Intensities Levels. Foldable & Portable Mattress.",
         url: "https://amzn.to/4eODpU6",
-        imagePath: "./images/img15.jpg" 
+        imagePath: "./images/img15.jpeg" 
     },
      {
         title: "Glamonade Acetone Nail Polish Remover: Gel Polish Remover for Removal of Regular Nail Polish/Gel/Nail Tips/Glitter Polish | Grape Scent Gel Nail Polish Remover with Easy Push-Down Pump",
