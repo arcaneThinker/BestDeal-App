@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Glamonade Acetone Nail Polish Remover: Gel Polish Remover for Removal of Regular Nail Polish/Gel/Nail Tips/Glitter Polish | Grape Scent Gel Nail Polish Remover with Easy Push-Down Pump",
+        url: "https://amzn.to/4vWrKbW",
+        imagePath: "./images/img14.jpg" 
+    },
+     {
         title: "Sports Fashion Running Shoes, Mesh Athletic Sneakers with Gradient Design, Black White Blue Colors, BlackColors，Breathable Comfort",
         url: "https://amzn.to/4vThotx",
         imagePath: "./images/img13.jpeg" 
