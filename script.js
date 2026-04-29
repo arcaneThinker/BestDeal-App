@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Red Light Hair Growth Cap - Laser Hair Growth Cap, The Adjustable Portable Laser Cap, Red Light Cap for Thicker Hair in Men and Women",
+        url: "https://amzn.to/4t5CX7E",
+        imagePath: "./images/img16.jpeg" 
+    },
+     {
         title: "DR. WELL 2026 New, Full Body Stretching Massage Mat 3D Lumbar - Neck, Back, Waist, Hip Relaxation. 26 Powerful Air Cells, 7 Massage Modes & 5 Intensities Levels. Foldable & Portable Mattress.",
         url: "https://amzn.to/4eODpU6",
         imagePath: "./images/img15.jpeg" 
