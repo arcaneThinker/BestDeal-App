@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Toilet Brush, Great Gag Gift, Fun Design, Premium Quality Toilet Bowl Brush with Solid Handle and Durable Bristles for Bathroom Cleaning, Political Satire Products",
+        url: "https://amzn.to/48ApGfT",
+        imagePath: "./images/img17.jpeg" 
+    },
+     {
         title: "Red Light Hair Growth Cap - Laser Hair Growth Cap, The Adjustable Portable Laser Cap, Red Light Cap for Thicker Hair in Men and Women",
         url: "https://amzn.to/4t5CX7E",
         imagePath: "./images/img16.jpeg" 
