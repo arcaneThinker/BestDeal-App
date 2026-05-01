@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Music Boxing Machine Sport Toys for Kids and Adults,Wall Mounted Bluetooth Smart Punching Target,Training Pad Toy with Boxing Glove,Ideas Toys for Boys Girls Kids",
+        url: "https://amzn.to/4dmcpt1",
+        imagePath: "./images/img18.jpeg" 
+    },
+     {
         title: "Toilet Brush, Great Gag Gift, Fun Design, Premium Quality Toilet Bowl Brush with Solid Handle and Durable Bristles for Bathroom Cleaning, Political Satire Products",
         url: "https://amzn.to/48ApGfT",
         imagePath: "./images/img17.jpeg" 
