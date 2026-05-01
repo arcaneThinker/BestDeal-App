@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Transformers: Matrix of Leadership Bookends, Multicolor",
+        url: "https://amzn.to/4uq3GwM",
+        imagePath: "./images/img19.jpg" 
+    },
+     {
         title: "Music Boxing Machine Sport Toys for Kids and Adults,Wall Mounted Bluetooth Smart Punching Target,Training Pad Toy with Boxing Glove,Ideas Toys for Boys Girls Kids",
         url: "https://amzn.to/4dmcpt1",
         imagePath: "./images/img18.jpeg" 
