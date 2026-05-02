@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Neporal A19 Rechargeable Light Bulbs Emergency Light Bulb for Power Outages",
+        url: "https://amzn.to/4n2carg",
+        imagePath: "./images/img21.jpeg" 
+    },
+     {
         title: "Transformers: Matrix of Leadership Bookends, Multicolor",
         url: "https://amzn.to/4uq3GwM",
         imagePath: "./images/img19.jpg" 
