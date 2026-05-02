@@ -1,6 +1,11 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "RePod Aluminum Alloy Case for Apple Watch Series 7/8/9/10 44/45MM",
+        url: "https://amzn.to/4eVsuYK",
+        imagePath: "./images/img22.jpeg" 
+    },
+     {
         title: "Neporal A19 Rechargeable Light Bulbs Emergency Light Bulb for Power Outages",
         url: "https://amzn.to/4n2carg",
         imagePath: "./images/img21.jpeg" 
