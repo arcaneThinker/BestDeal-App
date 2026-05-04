@@ -1,6 +1,26 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Vacuum Backpack Travel with Pump Vacpack Backpack with Vacuum System Travel Compression Backpacks for Women Mochila De Viaje Carry on Luggage",
+        url: "https://amzn.to/428cWJP",
+        imagePath: "./images/img25.jpeg" 
+    },
+     {
+        title: "Tovolo Mini Ice Cylinder- Squeeze & Release- Set of 2, 1000422, Gray",
+        url: "https://amzn.to/4w7fTIe",
+        imagePath: "./images/img24.jpeg" 
+    },
+     {
+        title: "Motorbike Helmet Wiper, 2 Speed Water Rechargeable Wiper with Telescopic Bracket, 170° Swing Range for Motorcycle Scooter Helmet",
+        url: "https://amzn.to/48BFuim",
+        imagePath: "./images/img23.jpeg" 
+    },
+     {
+        title: "A22I FS08 Dual-System AI Temperature Control 30W Magnetic Phone Cooler with Semiconductor Refrigeration and Liquid Cooling",
+        url: "https://amzn.to/4cJntkG",
+        imagePath: "./images/img20.jpeg" 
+    },
+     {
         title: "RePod Aluminum Alloy Case for Apple Watch Series 7/8/9/10 44/45MM",
         url: "https://amzn.to/4eVsuYK",
         imagePath: "./images/img22.jpeg" 
