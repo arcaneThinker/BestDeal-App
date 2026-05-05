@@ -6,6 +6,11 @@ const products = [
         imagePath: "./images/img30.jpeg" 
     },
      {
+        title: "Magnetic Beach Towel Oversized Quick-Dry Microfiber Towel with Magnetic Closure, Super Absorbent & Sand-Resistant for Beach, Pool, Travel and Gym",
+        url: "https://www.amazon.com/dp/B0F83MBZ66?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TL3FU0PSY7O6&linkCode=tr1&tag=3320000b-20&linkId=amzn1.campaign.3TL3FU0PSY7O6_1777998586980",
+        imagePath: "./images/img31.jpeg" 
+    },
+     {
         title: "Merax Modern Smart Coffee Table with Built-in Fridge,Bluetooth Speaker, Wireless Charging Module,Touch Control Panel,Power Socket,USB Interface,Outlet Protection, Atmosphere light",
         url: "https://amzn.to/4usFZng",
         imagePath: "./images/img27.jpeg" 
