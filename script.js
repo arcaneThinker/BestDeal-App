@@ -1,6 +1,21 @@
 // Your product database now points to your local images folder
 const products = [
      {
+        title: "Pixelated Lantern Night Light, 16-Color LED Mood Light with Remote Control, Rechargeable Table & Wall Night Lamp for Bedroom, Gaming, Kids, Boys Room Decor",
+        url: "https://amzn.to/42ghAp1",
+        imagePath: "./images/img30.jpeg" 
+    },
+     {
+        title: "Merax Modern Smart Coffee Table with Built-in Fridge,Bluetooth Speaker, Wireless Charging Module,Touch Control Panel,Power Socket,USB Interface,Outlet Protection, Atmosphere light",
+        url: "https://amzn.to/4usFZng",
+        imagePath: "./images/img27.jpeg" 
+    },
+     {
+        title: "Mattel Games UNO Splash Card Game with Waterproof Cards and Portable Clip for Travel, Camping and Game Nights Away",
+        url: "https://amzn.to/49uRqmm",
+        imagePath: "./images/img28.jpeg" 
+    },
+     {
         title: "Vacuum Backpack Travel with Pump Vacpack Backpack with Vacuum System Travel Compression Backpacks for Women Mochila De Viaje Carry on Luggage",
         url: "https://amzn.to/428cWJP",
         imagePath: "./images/img25.jpeg" 
