@@ -6,6 +6,21 @@ const products = [
         imagePath: "./images/img30.jpeg" 
     },
      {
+        title: "Flexible Devil Eyes Light for Windshield,LED Sign for Car,LED Digital Panel with Animations, Remote Control & Bluetooth APP for Cars,SUVs,Trucks",
+        url: "https://amzn.to/4uptsRI",
+        imagePath: "./images/img35.jpeg" 
+    },
+     {
+        title: "Chessnut Evo AI Chess Computer — Built-in Maia Engine, Customizable Chess Bot, Full Piece Recognition, LED Lights — Play Online on Major Chess Platforms — Smart Electronic Chessboard",
+        url: "https://amzn.to/4dqU279",
+        imagePath: "./images/img34.jpeg" 
+    },
+     {
+        title: "GUND Peek-A-Boo Teddy Bear Plush, Animated Stuffed Animal for Babies and Newborns",
+        url: "https://amzn.to/4dbYCVJ",
+        imagePath: "./images/img33.jpeg" 
+    },
+     {
         title: "Magnetic Beach Towel Oversized Quick-Dry Microfiber Towel with Magnetic Closure, Super Absorbent & Sand-Resistant for Beach, Pool, Travel and Gym",
         url: "https://www.amazon.com/dp/B0F83MBZ66?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.3TL3FU0PSY7O6&linkCode=tr1&tag=3320000b-20&linkId=amzn1.campaign.3TL3FU0PSY7O6_1777998586980",
         imagePath: "./images/img31.jpeg" 
