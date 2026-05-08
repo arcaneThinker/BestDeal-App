@@ -11,6 +11,11 @@ const products = [
         imagePath: "./images/img37.jpeg" 
     },
      {
+        title: "(As an Amazon Associate, I earn from qualifying purchases) Funny Bathroom Wall Art Vintage Whimsical Bathroom Poster Print Mona Lisa Painting Picture Classical Painting Canvas Wall Art Humor Amusing Toilet Art Pinching Nose Funny Wall Decor",
+        url: "https://www.amazon.com/dp/B0G6HSK7BP?ref=t_ac_view_request_product_image&campaignId=amzn1.campaign.405QPQPOCEZL&linkCode=tr1&tag=3320000b-20&linkId=amzn1.campaign.405QPQPOCEZL_1778217932295",
+        imagePath: "./images/img38.jpeg" 
+    },
+     {
         title: "360° Adjustable Neck Collar - Neck Support with Neck Stretcher | Cervical Collar Made of Plastic for Correcting Forward Head Posture and Relieving Neck Pain",
         url: "https://amzn.to/48NRkGf",
         imagePath: "./images/img36.jpeg" 
