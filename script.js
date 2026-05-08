@@ -6,6 +6,16 @@ const products = [
         imagePath: "./images/img30.jpeg" 
     },
      {
+        title: "Creativity Fireworks Water Gun, Sprays Water Like Fireworks, Squirt Gun for Kids, Bulk Samll Water Blaster Summer Pool, Backyard, Beach, Birthday Party Outdoor Game Toys",
+        url: "https://amzn.to/4tYzVTR",
+        imagePath: "./images/img37.jpeg" 
+    },
+     {
+        title: "360° Adjustable Neck Collar - Neck Support with Neck Stretcher | Cervical Collar Made of Plastic for Correcting Forward Head Posture and Relieving Neck Pain",
+        url: "https://amzn.to/48NRkGf",
+        imagePath: "./images/img36.jpeg" 
+    },
+     {
         title: "Flexible Devil Eyes Light for Windshield,LED Sign for Car,LED Digital Panel with Animations, Remote Control & Bluetooth APP for Cars,SUVs,Trucks",
         url: "https://amzn.to/4uptsRI",
         imagePath: "./images/img35.jpeg" 
