@@ -6,6 +6,11 @@ const products = [
         imagePath: "./images/img30.jpeg" 
     },
      {
+        title: "Electric Nail Clipper 2026 Upgraded 3 in 1 Rechargeable Automatic Nail Trimmer with LED Light & Clip Storage - USB Rechargeable for Baby, Kids,Seniors, Adults",
+        url: "https://amzn.to/4eBRqV9",
+        imagePath: "./images/img40.jpeg" 
+    },
+     {
         title: "Creativity Fireworks Water Gun, Sprays Water Like Fireworks, Squirt Gun for Kids, Bulk Samll Water Blaster Summer Pool, Backyard, Beach, Birthday Party Outdoor Game Toys",
         url: "https://amzn.to/4tYzVTR",
         imagePath: "./images/img37.jpeg" 
